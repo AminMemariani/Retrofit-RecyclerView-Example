@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="80dp">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="150dp"
+        android:layout_height="match_parent"
+        android:text="Testing"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        />
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="amin@mail.com"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        />
+</LinearLayout>
