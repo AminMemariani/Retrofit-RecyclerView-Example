@@ -1,2 +1,3 @@
 # Retrofit-RecyclerView-Example
-Android Retrofit and RecyclerView boilerplate 
+
+This is a simple example for begginers to learn how to work  with Retrofit and RecyclerView
